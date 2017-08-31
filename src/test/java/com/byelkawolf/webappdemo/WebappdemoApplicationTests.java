@@ -11,6 +11,7 @@ public class WebappdemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		String works = "maybe";
 	}
 
 }
